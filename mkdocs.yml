@@ -1,0 +1,9 @@
+site_name: Teige Dougherty
+repo_url: https://github.com/teigesaccord
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Personal Projects: pp.md
+
+theme: readthedocs
